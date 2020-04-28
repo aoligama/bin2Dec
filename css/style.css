@@ -7,9 +7,8 @@
     box-sizing: border-box;
 }
 
-html, body, #root {
-    height: 100%;
-
+html, body {
+    height: 100%;   
 }
 
 a {
@@ -101,32 +100,11 @@ aside form .input-block span {
     white-space: nowrap;
 }
 
-aside form .radio-block label{
-    color: #ACACAC;
-    font-size: 14px;
-    font-weight: bold;
-}
-
-aside form .radio-block label:hover{
-    color: #333;
-    font-size: 15px;
-    font-weight: bolder;
-    cursor: pointer;
-}
-
-aside form span {
-    color: #333;
-    font-size: 14px;
-    font-weight: bold;
-    display: block;
-
-}
-
 aside form a {
     width: 100%;
     border: 0;
     margin-top: 30px;
-    background: #2ECC71;
+    background: #663399;
     border-radius: 2px;
     padding: 15px 20px;
     font-size: 16px;
